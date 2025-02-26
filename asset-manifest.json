@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Breather/breathing-app/static/css/main.305df087.css",
-    "main.js": "/Breather/breathing-app/static/js/main.b119345d.js",
-    "index.html": "/Breather/breathing-app/index.html",
-    "main.305df087.css.map": "/Breather/breathing-app/static/css/main.305df087.css.map",
-    "main.b119345d.js.map": "/Breather/breathing-app/static/js/main.b119345d.js.map"
+    "main.css": "/Breather/static/css/main.305df087.css",
+    "main.js": "/Breather/static/js/main.b119345d.js",
+    "index.html": "/Breather/index.html",
+    "main.305df087.css.map": "/Breather/static/css/main.305df087.css.map",
+    "main.b119345d.js.map": "/Breather/static/js/main.b119345d.js.map"
   },
   "entrypoints": [
     "static/css/main.305df087.css",
