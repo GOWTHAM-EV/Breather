@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.305df087.css","mappings":"AAAA,gBAKE,qBAAsB,CACtB,sBAAuB,CAHvB,WAAY,CAFZ,QAAS,CACT,SAAU,CAEV,UAGF","sources":["index.css"],"sourcesContent":["html, body, #root {\n  margin: 0;\n  padding: 0;\n  height: 100%;\n  width: 100%;\n  box-sizing: border-box;\n  font-family: sans-serif;\n}\n"],"names":[],"sourceRoot":""}

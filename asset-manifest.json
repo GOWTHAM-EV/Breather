@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Breather/static/css/main.305df087.css",
+    "main.js": "/Breather/static/js/main.b119345d.js",
+    "index.html": "/Breather/index.html",
+    "main.305df087.css.map": "/Breather/static/css/main.305df087.css.map",
+    "main.b119345d.js.map": "/Breather/static/js/main.b119345d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.305df087.css",
+    "static/js/main.b119345d.js"
+  ]
+}
